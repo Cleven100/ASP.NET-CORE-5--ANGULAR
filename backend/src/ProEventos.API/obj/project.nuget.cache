@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T5LO4HwzVCbCszrINIpQiAcO507sY6spDQqCAhH4X+xAEvvYacj8AgCefVydhqOzDvmYGAVEdhi9titquoyh9g==",
+  "dgSpecHash": "rgbMfcNfegs5/dLI3o4iTCr77wdUzI2tLMSZYh+5yNb+55TAl0yA12oKweD3dWZ0Zy7TdGL3eMuZWeps8uk9zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cleven-PC\\Desktop\\ProjetosGit\\Asp.net\\AngularDotnet\\backend\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\Cleven-PC\\Desktop\\ProjetosGit\\Asp.net\\AngularDotnet\\backend\\src\\proeventos.api\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cleven-PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Cleven-PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
